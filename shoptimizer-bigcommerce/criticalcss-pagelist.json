@@ -1,0 +1,24 @@
+{
+  "urls": [
+    {
+      "link": "https://themedemo.commercegurus.com/bc4wp/",
+      "name": "criticalcss/home"
+    },
+    {
+      "link": "https://themedemo.commercegurus.com/bc4wp/products/",
+      "name": "criticalcss/shop-archive"
+    },
+    {
+      "link": "https://themedemo.commercegurus.com/bc4wp/products/leather-biker-jacket/",
+      "name": "criticalcss/single-product"
+    },
+    {
+      "link": "https://themedemo.commercegurus.com/bc4wp/blog/",
+      "name": "criticalcss/blog-archive"
+    },
+    {
+      "link": "https://themedemo.commercegurus.com/bc4wp/2019/03/20/for-the-girls-our-top-birthday-picks/",
+      "name": "criticalcss/single-post"
+    }
+  ]
+}
